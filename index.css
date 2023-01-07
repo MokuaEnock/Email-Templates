@@ -137,6 +137,25 @@ h2 {
   background-color: #3498db;
   justify-content: flex-start;
 }
+
+.container-sect-word {
+  font-size: 1.3vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #1d3e68;
+}
+
+.container-sect-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* width: 100%; */
+  height: 100%;
+}
 #section2 {
   font-size: 1.5vw;
   display: flex;
