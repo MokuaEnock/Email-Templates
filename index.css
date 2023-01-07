@@ -17,10 +17,13 @@ header {
   height: 7vw;
 }
 
+button {
+  border: thin solid black;
+}
+
 header,
 footer,
 section {
-  border: thin solid black;
   width: 60%;
   margin-bottom: 2vw;
 }
@@ -38,7 +41,7 @@ header {
   width: 20%;
   margin-bottom: 2vw;
   border-radius: 2vw;
-  border: thin solid black;
+
   font-size: 1.5vw;
 }
 
@@ -49,7 +52,6 @@ header {
   flex-direction: row;
   align-items: center;
   justify-content: space-evenly;
-  border: thin solid black;
 }
 
 .container-section {
@@ -59,18 +61,15 @@ header {
   justify-content: center;
   height: 100%;
   width: 50%;
-  border: thin solid black;
 }
 
 .section-link {
   height: 3vw;
   width: 20%;
   border-radius: 3vw;
-  border: thin solid black;
 }
 
 footer {
-  border: thin solid black;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -80,14 +79,13 @@ footer {
 }
 
 footer span {
-  border: thin solid black;
 }
 
 h2 {
   width: 100%;
   font-size: 2vw;
   height: 3vw;
-  border: thin solid black;
+
   text-align: center;
 }
 
@@ -134,7 +132,6 @@ h2 {
 }
 
 #section5 span {
-  border: thin solid black;
   height: 90%;
   width: 30%;
   font-size: 1.5vw;
