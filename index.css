@@ -77,13 +77,12 @@ section {
   width: 20%;
   margin-bottom: 2vw;
   border-radius: 2vw;
-
   font-size: 1.5vw;
 }
 
 .container {
   height: 20vw;
-  width: 100%;
+  width: 96%;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -104,6 +103,8 @@ section {
   font-size: 1.5vw;
   width: 25%;
   border-radius: 3vw;
+  margin-top: 0.3vw;
+  margin-bottom: 0.3vw;
 }
 
 footer {
