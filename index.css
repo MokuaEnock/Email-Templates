@@ -60,8 +60,9 @@ footer {
   justify-content: flex-start;
 }
 
-#section1 > h2 {
+h2 {
   width: 100%;
+  font-size: 2vw;
   border: thin solid black;
   text-align: center;
 }
